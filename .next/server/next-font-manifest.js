@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/applychart/Desktop/开发/personal projects/solana-wallets-monitor/01-wallets-monitor/wallets-monitor/01-wallets-monitor/wallets-monitor/src/app/layout\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
